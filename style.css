@@ -2,7 +2,7 @@ body {
   color: aliceblue;
 }
 
-div {
+.content {
   display: grid;
   grid-template-columns: auto auto auto;
 }
